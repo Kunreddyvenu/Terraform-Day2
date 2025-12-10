@@ -5,5 +5,4 @@ terraform.tfstate
 terraform.tfstate.backup
 
 # TFVARS (sensitive)
-*.tfvars
 *.tfvars.json
